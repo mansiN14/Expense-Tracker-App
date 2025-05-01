@@ -1,7 +1,9 @@
 💸 Expense Tracker App
+
 A simple and modern Expense Tracker built with React.js. This app allows users to add, view, and manage daily expenses in a minimal and user-friendly interface.
 
 🔧 Features
+
 📥 Add Expenses: Enter the title and amount for your expense.
 
 📃 Expense List: See a list of all your added expenses.
@@ -13,6 +15,7 @@ A simple and modern Expense Tracker built with React.js. This app allows users t
 🚀 Live Deployment: Hosted using Vercel.
 
 🛠️ Built With
+
 React.js – Frontend library
 
 HTML/CSS – Layout and styling
